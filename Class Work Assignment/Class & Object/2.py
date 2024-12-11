@@ -36,5 +36,5 @@ class Rectangle(Shape):
         print("Perimeter:", self.Perimeter())  
 
 
-r = Rectangle("Mezbah", 5, 6)  
+r = Rectangle("Hafiz", 5, 6)  
 r.display_info()  
